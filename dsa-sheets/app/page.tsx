@@ -116,7 +116,7 @@ export default function HomePage() {
         <div className="flex flex-wrap justify-center gap-4">
           <div className="flex items-center gap-2 bg-card border px-6 py-3 rounded-full shadow-sm">
             <Zap className="w-5 h-5 text-yellow-500" />
-            <span className="font-semibold">3 Sheets • 1000+ Problems</span>
+            <span className="font-semibold">3 Sheets • 500+ Problems</span>
           </div>
           <div className="flex items-center gap-2 bg-card border px-6 py-3 rounded-full shadow-sm">
             <TrendingUp className="w-5 h-5 text-green-500" />
