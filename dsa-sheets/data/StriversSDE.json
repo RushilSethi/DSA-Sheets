@@ -1,0 +1,145 @@
+{
+  "sheet": "Striver SDE Sheet",
+  "total_problems": 191,
+  "topics": [
+    {
+      "topic": "Arrays",
+      "problems": [
+        {"name":"Set Matrix Zeroes","difficulty":"Medium","tags":["Array","Matrix"],"platform":"LeetCode","link":"https://leetcode.com/problems/set-matrix-zeroes/"},
+        {"name":"Pascal’s Triangle","difficulty":"Easy","tags":["Array"],"platform":"LeetCode","link":"https://leetcode.com/problems/pascals-triangle/"},
+        {"name":"Next Permutation","difficulty":"Medium","tags":["Array"],"platform":"LeetCode","link":"https://leetcode.com/problems/next-permutation/"},
+        {"name":"Maximum Subarray (Kadane)","difficulty":"Medium","tags":["Array"],"platform":"LeetCode","link":"https://leetcode.com/problems/maximum-subarray/"},
+        {"name":"Sort Colors","difficulty":"Medium","tags":["Array","Sorting"],"platform":"LeetCode","link":"https://leetcode.com/problems/sort-colors/"},
+        {"name":"Best Time to Buy and Sell Stock","difficulty":"Easy","tags":["Array"],"platform":"LeetCode","link":"https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"},
+        {"name":"Rotate Image","difficulty":"Medium","tags":["Matrix"],"platform":"LeetCode","link":"https://leetcode.com/problems/rotate-image/"},
+        {"name":"Merge Intervals","difficulty":"Medium","tags":["Array"],"platform":"LeetCode","link":"https://leetcode.com/problems/merge-intervals/"},
+        {"name":"Merge Sorted Array","difficulty":"Easy","tags":["Array"],"platform":"LeetCode","link":"https://leetcode.com/problems/merge-sorted-array/"},
+        {"name":"Find Duplicate Number","difficulty":"Medium","tags":["Array"],"platform":"LeetCode","link":"https://leetcode.com/problems/find-the-duplicate-number/"},
+        {"name":"Repeat and Missing Number","difficulty":"Medium","tags":["Array"],"platform":"GFG","link":"https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/"},
+        {"name":"Count Inversions","difficulty":"Hard","tags":["Divide and Conquer"],"platform":"GFG","link":"https://www.geeksforgeeks.org/counting-inversions/"},
+        {"name":"Search in 2D Matrix","difficulty":"Medium","tags":["Binary Search"],"platform":"LeetCode","link":"https://leetcode.com/problems/search-a-2d-matrix/"},
+        {"name":"Pow(x,n)","difficulty":"Medium","tags":["Math"],"platform":"LeetCode","link":"https://leetcode.com/problems/powx-n/"},
+        {"name":"Majority Element","difficulty":"Easy","tags":["Array"],"platform":"LeetCode","link":"https://leetcode.com/problems/majority-element/"},
+        {"name":"Majority Element II","difficulty":"Medium","tags":["Array"],"platform":"LeetCode","link":"https://leetcode.com/problems/majority-element-ii/"},
+        {"name":"Unique Paths","difficulty":"Medium","tags":["DP"],"platform":"LeetCode","link":"https://leetcode.com/problems/unique-paths/"},
+        {"name":"Reverse Pairs","difficulty":"Hard","tags":["Divide and Conquer"],"platform":"LeetCode","link":"https://leetcode.com/problems/reverse-pairs/"},
+        {"name":"Two Sum","difficulty":"Easy","tags":["Array"],"platform":"LeetCode","link":"https://leetcode.com/problems/two-sum/"},
+        {"name":"Four Sum","difficulty":"Medium","tags":["Array"],"platform":"LeetCode","link":"https://leetcode.com/problems/4sum/"},
+        {"name":"Longest Consecutive Sequence","difficulty":"Medium","tags":["Array"],"platform":"LeetCode","link":"https://leetcode.com/problems/longest-consecutive-sequence/"},
+        {"name":"Largest Subarray with Sum K","difficulty":"Medium","tags":["Array"],"platform":"GFG","link":"https://www.geeksforgeeks.org/longest-sub-array-sum-k/"},
+        {"name":"Subarrays with XOR K","difficulty":"Medium","tags":["Array"],"platform":"GFG","link":"https://www.geeksforgeeks.org/count-number-subarrays-given-xor/"},
+        {"name":"Longest Substring Without Repeating Characters","difficulty":"Medium","tags":["String"],"platform":"LeetCode","link":"https://leetcode.com/problems/longest-substring-without-repeating-characters/"}
+      ]
+    },
+
+    {
+      "topic": "Linked List",
+      "problems": [
+        {"name":"Reverse Linked List","difficulty":"Easy","tags":["Linked List"],"platform":"LeetCode","link":"https://leetcode.com/problems/reverse-linked-list/"},
+        {"name":"Middle of Linked List","difficulty":"Easy","tags":["Linked List"],"platform":"LeetCode","link":"https://leetcode.com/problems/middle-of-the-linked-list/"},
+        {"name":"Merge Two Sorted Lists","difficulty":"Easy","tags":["Linked List"],"platform":"LeetCode","link":"https://leetcode.com/problems/merge-two-sorted-lists/"},
+        {"name":"Remove Nth Node From End","difficulty":"Medium","tags":["Linked List"],"platform":"LeetCode","link":"https://leetcode.com/problems/remove-nth-node-from-end-of-list/"},
+        {"name":"Delete Node in Linked List","difficulty":"Easy","tags":["Linked List"],"platform":"LeetCode","link":"https://leetcode.com/problems/delete-node-in-a-linked-list/"},
+        {"name":"Add Two Numbers","difficulty":"Medium","tags":["Linked List"],"platform":"LeetCode","link":"https://leetcode.com/problems/add-two-numbers/"},
+        {"name":"Intersection of Two Linked Lists","difficulty":"Easy","tags":["Linked List"],"platform":"LeetCode","link":"https://leetcode.com/problems/intersection-of-two-linked-lists/"},
+        {"name":"Linked List Cycle","difficulty":"Easy","tags":["Linked List"],"platform":"LeetCode","link":"https://leetcode.com/problems/linked-list-cycle/"},
+        {"name":"Palindrome Linked List","difficulty":"Easy","tags":["Linked List"],"platform":"LeetCode","link":"https://leetcode.com/problems/palindrome-linked-list/"},
+        {"name":"Linked List Cycle II","difficulty":"Medium","tags":["Linked List"],"platform":"LeetCode","link":"https://leetcode.com/problems/linked-list-cycle-ii/"},
+        {"name":"Flatten Linked List","difficulty":"Medium","tags":["Linked List"],"platform":"GFG","link":"https://www.geeksforgeeks.org/flattening-a-linked-list/"},
+        {"name":"Rotate List","difficulty":"Medium","tags":["Linked List"],"platform":"LeetCode","link":"https://leetcode.com/problems/rotate-list/"},
+        {"name":"Copy List with Random Pointer","difficulty":"Medium","tags":["Linked List"],"platform":"LeetCode","link":"https://leetcode.com/problems/copy-list-with-random-pointer/"}
+      ]
+    },
+
+    {
+      "topic": "Greedy",
+      "problems": [
+        {"name":"N Meetings in One Room","difficulty":"Medium","tags":["Greedy"],"platform":"GFG","link":"https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/"},
+        {"name":"Minimum Platforms","difficulty":"Medium","tags":["Greedy"],"platform":"GFG","link":"https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/"},
+        {"name":"Job Sequencing Problem","difficulty":"Medium","tags":["Greedy"],"platform":"GFG","link":"https://www.geeksforgeeks.org/job-sequencing-problem/"},
+        {"name":"Fractional Knapsack","difficulty":"Medium","tags":["Greedy"],"platform":"GFG","link":"https://www.geeksforgeeks.org/fractional-knapsack-problem/"},
+        {"name":"Assign Cookies","difficulty":"Easy","tags":["Greedy"],"platform":"LeetCode","link":"https://leetcode.com/problems/assign-cookies/"},
+        {"name":"Jump Game","difficulty":"Medium","tags":["Greedy"],"platform":"LeetCode","link":"https://leetcode.com/problems/jump-game/"}
+      ]
+    },
+
+    {
+      "topic": "Recursion & Backtracking",
+      "problems": [
+        {"name":"Subset Sum","difficulty":"Medium","tags":["Recursion"],"platform":"GFG","link":"https://www.geeksforgeeks.org/subset-sum-problem/"},
+        {"name":"Subsets","difficulty":"Medium","tags":["Backtracking"],"platform":"LeetCode","link":"https://leetcode.com/problems/subsets/"},
+        {"name":"Permutations","difficulty":"Medium","tags":["Backtracking"],"platform":"LeetCode","link":"https://leetcode.com/problems/permutations/"},
+        {"name":"Combination Sum","difficulty":"Medium","tags":["Backtracking"],"platform":"LeetCode","link":"https://leetcode.com/problems/combination-sum/"},
+        {"name":"N Queens","difficulty":"Hard","tags":["Backtracking"],"platform":"LeetCode","link":"https://leetcode.com/problems/n-queens/"},
+        {"name":"Sudoku Solver","difficulty":"Hard","tags":["Backtracking"],"platform":"LeetCode","link":"https://leetcode.com/problems/sudoku-solver/"}
+      ]
+    },
+
+    {
+      "topic": "Binary Search",
+      "problems": [
+        {"name":"Nth Root of a Number","difficulty":"Medium","tags":["Binary Search"],"platform":"GFG","link":"https://www.geeksforgeeks.org/n-th-root-number/"},
+        {"name":"Median of Two Sorted Arrays","difficulty":"Hard","tags":["Binary Search"],"platform":"LeetCode","link":"https://leetcode.com/problems/median-of-two-sorted-arrays/"},
+        {"name":"Search in Rotated Sorted Array","difficulty":"Medium","tags":["Binary Search"],"platform":"LeetCode","link":"https://leetcode.com/problems/search-in-rotated-sorted-array/"},
+        {"name":"Allocate Books","difficulty":"Hard","tags":["Binary Search"],"platform":"GFG","link":"https://www.geeksforgeeks.org/allocate-minimum-number-pages/"},
+        {"name":"Aggressive Cows","difficulty":"Hard","tags":["Binary Search"],"platform":"GFG","link":"https://www.geeksforgeeks.org/aggressive-cows-problem/"},
+        {"name":"Kth Element of Two Sorted Arrays","difficulty":"Hard","tags":["Binary Search"],"platform":"GFG","link":"https://www.geeksforgeeks.org/k-th-element-two-sorted-arrays/"}
+      ]
+    },
+
+    {
+      "topic": "Stack & Queue",
+      "problems": [
+        {"name":"Next Greater Element","difficulty":"Easy","tags":["Stack"],"platform":"LeetCode","link":"https://leetcode.com/problems/next-greater-element-i/"},
+        {"name":"Valid Parentheses","difficulty":"Easy","tags":["Stack"],"platform":"LeetCode","link":"https://leetcode.com/problems/valid-parentheses/"},
+        {"name":"Min Stack","difficulty":"Medium","tags":["Stack"],"platform":"LeetCode","link":"https://leetcode.com/problems/min-stack/"},
+        {"name":"LRU Cache","difficulty":"Medium","tags":["Design"],"platform":"LeetCode","link":"https://leetcode.com/problems/lru-cache/"},
+        {"name":"Sliding Window Maximum","difficulty":"Hard","tags":["Deque"],"platform":"LeetCode","link":"https://leetcode.com/problems/sliding-window-maximum/"}
+      ]
+    },
+
+    {
+      "topic": "Binary Tree & BST",
+      "problems": [
+        {"name":"Inorder Traversal","difficulty":"Easy","tags":["Tree"],"platform":"LeetCode","link":"https://leetcode.com/problems/binary-tree-inorder-traversal/"},
+        {"name":"Level Order Traversal","difficulty":"Medium","tags":["Tree"],"platform":"LeetCode","link":"https://leetcode.com/problems/binary-tree-level-order-traversal/"},
+        {"name":"Diameter of Binary Tree","difficulty":"Easy","tags":["Tree"],"platform":"LeetCode","link":"https://leetcode.com/problems/diameter-of-binary-tree/"},
+        {"name":"Maximum Path Sum","difficulty":"Hard","tags":["Tree"],"platform":"LeetCode","link":"https://leetcode.com/problems/binary-tree-maximum-path-sum/"},
+        {"name":"Validate BST","difficulty":"Medium","tags":["BST"],"platform":"LeetCode","link":"https://leetcode.com/problems/validate-binary-search-tree/"},
+        {"name":"LCA in BST","difficulty":"Easy","tags":["BST"],"platform":"LeetCode","link":"https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/"}
+      ]
+    },
+
+    {
+      "topic": "Graph",
+      "problems": [
+        {"name":"Number of Islands","difficulty":"Medium","tags":["Graph"],"platform":"LeetCode","link":"https://leetcode.com/problems/number-of-islands/"},
+        {"name":"Clone Graph","difficulty":"Medium","tags":["Graph"],"platform":"LeetCode","link":"https://leetcode.com/problems/clone-graph/"},
+        {"name":"Course Schedule","difficulty":"Medium","tags":["Graph"],"platform":"LeetCode","link":"https://leetcode.com/problems/course-schedule/"},
+        {"name":"Dijkstra Algorithm","difficulty":"Medium","tags":["Graph"],"platform":"GFG","link":"https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm/"},
+        {"name":"Topological Sort","difficulty":"Medium","tags":["Graph"],"platform":"GFG","link":"https://www.geeksforgeeks.org/topological-sorting/"}
+      ]
+    },
+
+    {
+      "topic": "Dynamic Programming",
+      "problems": [
+        {"name":"Climbing Stairs","difficulty":"Easy","tags":["DP"],"platform":"LeetCode","link":"https://leetcode.com/problems/climbing-stairs/"},
+        {"name":"Longest Increasing Subsequence","difficulty":"Medium","tags":["DP"],"platform":"LeetCode","link":"https://leetcode.com/problems/longest-increasing-subsequence/"},
+        {"name":"Longest Common Subsequence","difficulty":"Medium","tags":["DP"],"platform":"LeetCode","link":"https://leetcode.com/problems/longest-common-subsequence/"},
+        {"name":"0/1 Knapsack","difficulty":"Medium","tags":["DP"],"platform":"GFG","link":"https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/"},
+        {"name":"Matrix Chain Multiplication","difficulty":"Hard","tags":["DP"],"platform":"GFG","link":"https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/"}
+      ]
+    },
+
+    {
+      "topic": "Trie",
+      "problems": [
+        {"name":"Implement Trie","difficulty":"Medium","tags":["Trie"],"platform":"LeetCode","link":"https://leetcode.com/problems/implement-trie-prefix-tree/"},
+        {"name":"Word Break","difficulty":"Medium","tags":["Trie","DP"],"platform":"LeetCode","link":"https://leetcode.com/problems/word-break/"},
+        {"name":"Maximum XOR of Two Numbers","difficulty":"Medium","tags":["Trie"],"platform":"LeetCode","link":"https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/"},
+        {"name":"Count Distinct Substrings","difficulty":"Medium","tags":["Trie"],"platform":"GFG","link":"https://www.geeksforgeeks.org/count-distinct-substrings-string-using-suffix-trie/"}
+      ]
+    }
+  ]
+}
